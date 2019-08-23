@@ -39,3 +39,6 @@ Before the program starts, ask the user for their account name and a pin number.
 
 
 # SERIOUSLY, POINTS WILL BE TAKEN OFF FOR NOT COMMENTING
+
+### Kenn's Comments
+This was really close. You are reassigning your balance to be 500 each time you run your if statement. You can fix that by putting your variable outside of the if statements. You should also check for the balance is being less than zero after subtracting the the withdrawl to see if they have enough money in the bank.
